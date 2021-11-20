@@ -1,7 +1,7 @@
 # DS_research
 Paper: Ying Bi, Bing Xue, and Mengjie Zhang. An Effective Feature Learning Approach Using Genetic Programming with Image Descriptors for Image Classification, IEEE Computational Intelligence Magazine, vol. 15, no. 2, pp., May 2020.\
 \
-Trello Link: [https://trello.com/b/ncxqv2TG](Tasks List)
+Trello Link: [Tasks List](https://trello.com/b/ncxqv2TG)
 \
 Kindly install all the libraries included in the requirements.txt file as those libraries are being used in the source code.
 \

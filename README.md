@@ -3,6 +3,9 @@ Paper: Ying Bi, Bing Xue, and Mengjie Zhang. An Effective Feature Learning Appro
 \
 Trello Link: [https://trello.com/b/ncxqv2TG](Tasks List)
 \ \
-Kindly install all the libraries included in the requirements.txt file as those libraries are being used in the source code. \
-Library names are mentioned, if you have pip in your path variable simply run the following command after navigating to the directory with requirements.txt.\
-* pip install -r requirements.txt\
+Kindly install all the libraries included in the requirements.txt file as those libraries are being used in the source code.
+\
+Library names are mentioned, if you have pip in your path variable simply run the following command after navigating to the directory with requirements.txt.
+\
+* pip install -r requirements.txt
+\

@@ -7,4 +7,4 @@ Kindly install all the libraries included in the requirements.txt file as those 
 Library names are mentioned, if you have pip in your path variable simply run the following command after navigating to the directory with requirements.txt.  
 * pip install -r requirements.txt  
 
-A Summary is also attached, namely FLGP Summary.pdf, kindly skim through the research paper as well as many of the details were skipped in the summary and it only contains a basic outlook of how the program works. Furthermore the summary DOES NOT include any description of the code.
+A Summary is also attached, namely FLGP Summary.pdf, kindly skim through the research paper as well as many of the details were skipped in the summary and it only contains a basic outlook of how the program works. Furthermore, the summary DOES NOT include any description of the code.
